@@ -11,7 +11,7 @@ CobraGuard has only one dependency, Scapy. You can install it with pip:
 
 ### pip install scapy
 
-After installing Scapy, you can download GuardNet and run it directly.
+After installing Scapy, you can download and run it directly.
 
 ## Usage
 To start CobraGuard, simply navigate to its directory and run the script:
